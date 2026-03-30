@@ -56,11 +56,11 @@ student-registration
 Example Document:
 
 {
-"name": "Kapil",
-"email": "kapil@gmail.com",
-"dob": "2003-05-20",
+"name": "deepak",
+"email": "deepakkesh75@gmail.com",
+"dob": "2005-11-30",
 "department": "CSE",
-"phone": "9876543210"
+"phone": "9042736400"
 }
 
 
